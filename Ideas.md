@@ -8,6 +8,8 @@ You have a finite amount of reincarnations.
 When you get through half-way through your reincarnations, you get a cut-scene.
 At the 3-2-1 limit, you get a lives counter.
 
+We will test the game with a lives counter up at all times, to see if that feels better.
+
 That means that 1-ups are super important.
 You can get 1-ups through doing good deeds and achievements.
 But doing bad deeds doesn't give lives.
