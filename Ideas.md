@@ -21,9 +21,12 @@ You don't know that the villain is the same person.
 But, he is the SAME person with the same goals.
 
 Act 1: slow acts in the background that makes problems that pop up in places that should not be there, people need your help
+
 Act 2: the villain gets power and starts showing himself in small parts
+
 Act 3: the people start to majorly oppose the villain as he makes big moves
 	The decisions of the player decides if the villain scatters the people away, or the villain is cornered and defeated
+	
 skeleton army?
 skeleton / undead versions of old characters.
 a villain that grows as much as the society does.
