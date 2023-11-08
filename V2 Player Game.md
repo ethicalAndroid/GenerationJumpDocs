@@ -26,4 +26,10 @@ Each quest takes X time units to complete.
 
 Quests have a season-year expiration.
 
+Act structure
+- 2 Cycles of starting stuff.
+- 2 Cycles of build up
+- 1 Cycle of encounter
+- 1 Cycle of resolution
+
 
