@@ -22,11 +22,10 @@ If you try to revive but have 0 lives, you have ran out of lives.
 
 If you run out of lives, you can choose to end the game or loan a life.
 
-You get 1 life, but your next cycle costs 2 lives.
+The loan gives 1 life, but your next cycle costs 2 lives.
 
-To get a life, you can either get enough Soul Essence from killing people.
-
-Or, you can accomplish enough Great Deeds or Minor Deeds.
-
-You can also get a rare item to get a life.
+In a cycle, in order to get a life, you can: 
+1. You can get enough Soul Essence from killing people.
+2. You can accomplish enough Great Deeds or Minor Deeds.
+3. You can also get a rare item to get a life.
 
